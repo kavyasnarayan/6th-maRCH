@@ -1,0 +1,71 @@
+Write own code in your style(Google Tags for requirements), so, you can use it for "M1".
+If you discuss with others, same code will be in everyones M1 exams and they will consider as  Copying.
+
+
+
+Create form:
+ 
+Request all the mandatory fields from user
+
+and
+
+***************
+Declare two combo boxes
+
+1-Country
+2-States
+
+in both by default there should be 'Please Select'
+**************
+
+
+1-country (Choose any three countries)---India  US   France
+
+Upon selection of "Country" respective states should be available in "States" drop down
+
+for example,
+If choice
+
+India
+	--Indian state names should be available in 'States'
+
+
+US
+
+	--US state names should be available in 'States'
+
+
+
+
+Form validation
+and
+Check for validation of all fields.
+
+
+Upon submission of Form
+
+display
+(    
+All the data in the 
+
+   "Alot box" or in a "new window.")
+
+Check for validation
+
+
+
+
+***All topics should be implemented.
+
+required
+pattern
+number
+mail
+date
+place holder
+Links
+
+
+**Audio &video can be excluded.
+
+(Hint:Implement in HTML5 and later on validate in JavaScript).
